@@ -12,3 +12,5 @@ What can it do so far?
 5. Search query on duckduckgo
 6. Make a youtube search
 7. Suspend, shutdown or reboot system for you
+
+Check code [here](https://github.com/wolfian/alice-voice-assistant).
